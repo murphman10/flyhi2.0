@@ -6,6 +6,7 @@ import Help from "./routes/Help";
 import Booking from "./routes/Booking";
 import Payments from "./routes/Payments";
 import Navbar from "./components/navbar";
+import FlightSelection from "./routes/FlightSelection";
 
 const AppLayout = () => {
     return( 
