@@ -1,3 +1,22 @@
+![alt text](https://github.com/murphman10/FlyHi/blob/main/FlyHi-Logo.png)
+# FlyHi
+Simple flight application for a daily commuter. 
+FlyHi is the one stop application for frequent flyers, offering great features such as:
+- Flight Access
+- Delayed Flight Tracking
+- Flight and Car rental packages
+- Miles rewards
+- Hotel Suggestions
+- Tech Support
+_______________________________________________________________________________________________
+# The Team
+Tim Chen - BA/DEV<br />
+Anitha Gollapudi - DEV<br /> 
+Sairahul Kilambi - SM/DEV<br />
+Gurmanjot Singh - BA<br />
+Rabia Farhana - BA<br />
+Asa Murphy - DEV<br />
+_______________________________________________________________________________________________
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
