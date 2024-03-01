@@ -6,12 +6,9 @@ import Help from "./routes/Help";
 import Booking from "./routes/Booking";
 import Payments from "./routes/Payments";
 import Navbar from "./components/navbar";
-<<<<<<< HEAD
 import Confirmation from "./routes/Confirmation";
 import Login from "./routes/Login";
-=======
 import FlightSelection from "./routes/FlightSelection";
->>>>>>> 720ac07b7562150487d444dd1493aa038b7e2db7
 
 const AppLayout = () => {
     return( 
