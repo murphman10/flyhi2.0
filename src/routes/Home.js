@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from "react";
 import "./Home.css";
 
@@ -26,6 +27,17 @@ function Home() {
                 </div>
             </form>
 
+=======
+import react from "react";
+import airport from "../assets/airport.jpg"
+import FlightSelection from "./FlightSelection";
+function Home() {
+    return (
+        <div className="home">
+            <h1>Home</h1>
+            <FlightSelection/>
+            <img src={airport} alt="" className='airport'/>
+>>>>>>> 720ac07b7562150487d444dd1493aa038b7e2db7
         </div>
     )
 }
