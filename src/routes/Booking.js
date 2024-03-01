@@ -1,4 +1,4 @@
-import react from "react";
+import React from "react";
 import carhotel from "../assets/carHotel.png"
 function Booking() {
     return (

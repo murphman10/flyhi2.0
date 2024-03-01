@@ -6,6 +6,8 @@ import Help from "./routes/Help";
 import Booking from "./routes/Booking";
 import Payments from "./routes/Payments";
 import Navbar from "./components/navbar";
+import Confirmation from "./routes/Confirmation";
+import Login from "./routes/Login";
 
 const AppLayout = () => {
     return( 
@@ -32,6 +34,14 @@ const router = createBrowserRouter([
       {
         path: "payments",
         element: <Payments />,
+      },
+      {
+        path: "confirmation",
+        element: <Confirmation />,
+      },
+      {
+        path: "login",
+        element: <Login />,
       },
       {
         path: "help",
